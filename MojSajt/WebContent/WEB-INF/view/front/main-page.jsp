@@ -70,7 +70,7 @@
                          <a href="https://www.linkedin.com/in/emirtotic/" target="_blank">LinkedIn</a>
                          <a href="https://github.com/emirtotic" target="_blank">GitHub</a>
                          <a href="https://www.instagram.com/emir.totic" target="_blank">Instagram</a>
-                         <a href="#" target="_blank">Facebook</a>
+                         <a href="https://www.facebook.com/emir.totic.71" target="_blank">Facebook</a>
                     </div>
                </div>
 
@@ -169,15 +169,18 @@
                </div>
 
                <div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.4s">
-                    <div class="support-cus">
-                         <h4 style="text-align:center">Adresa</h4>
-                         <p style="text-align:center">Vespučijeva br. 3 <br> 11000 Beograd</p>
-                    </div>
-                    <div class="support-cus">
-                         <h4 style="text-align:center">Kontakt informacije</h4>
-                         <p style="text-align:center">emirtotic@gmail.com</p>
-                         <p style="text-align:center">Tel: (+381) 60 695 61 33</p>
-                    </div>
+<!--                     <div class="support-cus"> -->
+<!--                          <h4 style="text-align:center">Adresa</h4> -->
+<!--                          <p style="text-align:center">Vespučijeva br. 3 <br> 11000 Beograd</p> -->
+<!--                     </div> -->
+               
+                         <h4 style="text-align:center">Društvene mreže :</h4>
+                        <br>
+                         <p style="text-align:center" ><a href="https://www.linkedin.com/in/emirtotic/" target="_blank">LinkedIn</a></p>
+                         <p style="text-align:center" ><a href="https://github.com/emirtotic" target="_blank">GitHub</a></p>
+                         <p style="text-align:center" ><a href="https://www.instagram.com/emir.totic" target="_blank">Instagram</a></p>
+                         <p style="text-align:center" ><a href="https://www.facebook.com/emir.totic.71" target="_blank">Facebook</a></p>
+                 
                </div>
                
                 <div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.6s">
