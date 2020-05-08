@@ -261,7 +261,7 @@
 
                <div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.2s">
                     <h4 style="text-align:center">Emir Totić - Software Engineer</h4>
-                    <p style="text-align:center">Diplomirani inzenjer Računarstva i Informatike. Trenutno pohadjam <a href="https://cubes.edu.rs/" target="_blank">Cubes školu</a> programiranja u Beogradu.</p>
+                    <p style="text-align:center">Diplomirani inženjer Računarstva i Informatike. Trenutno pohadjam <a href="https://cubes.edu.rs/" target="_blank">Cubes školu</a> programiranja u Beogradu.</p>
                </div>
 
                <div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.4s">
