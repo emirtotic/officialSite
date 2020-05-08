@@ -189,9 +189,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 									<div class="card-tools">
 
 
-										<a href="category-form" class="btn btn-success"> <i
-											class="fas fa-plus-square"></i> Add new Category
-										</a>
+										
 									</div>
 								</div>
 								<!-- /.card-header -->
