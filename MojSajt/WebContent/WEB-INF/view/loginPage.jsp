@@ -46,7 +46,7 @@
       	<c:if test="${param.logout != null}">
       		<div class="alert alert-info alert-dismissible">
                   <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
-                  Log Out
+                  Loged Out
                 </div>
       	</c:if>
       	
