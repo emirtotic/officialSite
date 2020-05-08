@@ -21,6 +21,9 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 	@Override
 	protected void configure(AuthenticationManagerBuilder auth) throws Exception {
 		
+		
+		// REMOVING HARD CODED USERS, CONNECTING DATABASE TABLES FOR USERS AND AUTHORITIES
+		
 //		UserBuilder users = User.withDefaultPasswordEncoder();
 //		auth.inMemoryAuthentication()
 //		.withUser(users.username("emir").password("emir12345").roles("admin"));
